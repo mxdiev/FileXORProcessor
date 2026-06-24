@@ -22,7 +22,7 @@ cd build
 4. Сгенерируйте проект с помощью CMake:
 **bash
 cmake .. -G "MinGW Makefiles"
-# или для Qt Creator просто откройте CMakeLists.txt
+или для Qt Creator просто откройте CMakeLists.txt
 
 4. Соберите проект:
 **bash
