@@ -1,0 +1,5 @@
+C:/Users/maximus/Documents/WorkTest/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/FileXORProcessor.dir
+C:/Users/maximus/Documents/WorkTest/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/maximus/Documents/WorkTest/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maximus/Documents/WorkTest/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/FileXORProcessor_autogen_timestamp_deps.dir
+C:/Users/maximus/Documents/WorkTest/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/FileXORProcessor_autogen.dir
